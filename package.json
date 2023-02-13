@@ -1,22 +1,22 @@
 {
-  "name": "@zmjs/form-design",
+  "name": "@xubiaolin/form-design",
   "version": "0.1.16",
   "description": "表单设计器",
   "packageManager": "pnpm@6.32.3",
   "keywords": [
     "form-design"
   ],
-  "homepage": "https://github.com/zhiyuanzmj/form-design#readme",
+  "homepage": "https://github.com/xubiaolin/form-design#readme",
   "bugs": {
-    "url": "https://github.com/zhiyuanzmj/form-design/issues"
+    "url": "https://github.com/xubiaolin/form-design/issues"
   },
   "license": "MIT",
-  "author": "zhiyuanzmj <260480378@qq.com>",
+  "author": "xubiaolin <260480378@qq.com>",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zhiyuanzmj/form-design.git"
+    "url": "git+https://github.com/xubiaolin/form-design.git"
   },
-  "funding": "https://github.com/sponsors/zhiyuanzmj",
+  "funding": "https://github.com/sponsors/xubiaolin",
   "main": "dist/index.umd.js",
   "module": "dist/index.es.js",
   "types": "dist/index.d.ts",

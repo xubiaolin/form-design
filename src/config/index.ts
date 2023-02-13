@@ -295,7 +295,7 @@ export const basicFields = (basicComponents).map(i => i.type)
 
 export const advanceComponents = [
   {
-    label: '图片',
+    label: '文件上传',
     type: 'img-upload' as const,
     options: {
       defaultValue: [],
