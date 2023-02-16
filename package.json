@@ -1,6 +1,6 @@
 {
   "name": "@xubiaolin/form-design",
-  "version": "0.1.18",
+  "version": "0.1.19",
   "description": "表单设计器",
   "packageManager": "pnpm@6.32.3",
   "keywords": [
